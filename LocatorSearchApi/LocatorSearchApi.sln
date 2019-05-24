@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocatorSearchApi", "LocatorSearchApi.csproj", "{F6D5A439-3E85-4136-A45B-83F3A906B898}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocatorSearchApiTest", "..\LocatorSearchApiTest\LocatorSearchApiTest.csproj", "{CFCAFF81-E47A-4ADC-8632-720B2148FBBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F6D5A439-3E85-4136-A45B-83F3A906B898}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D5A439-3E85-4136-A45B-83F3A906B898}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D5A439-3E85-4136-A45B-83F3A906B898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCAFF81-E47A-4ADC-8632-720B2148FBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCAFF81-E47A-4ADC-8632-720B2148FBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCAFF81-E47A-4ADC-8632-720B2148FBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCAFF81-E47A-4ADC-8632-720B2148FBBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,3 +5,13 @@ D:\Projects\Cardtronics\work\LocatorSearchApi\obj\Debug\LocatorSearchApi.csprojA
 D:\Projects\Cardtronics\work\LocatorSearchApi\obj\Debug\LocatorSearchApi.csproj.CoreCompileInputs.cache
 D:\Projects\Cardtronics\work\LocatorSearchApi\obj\Debug\LocatorSearchApi.dll
 D:\Projects\Cardtronics\work\LocatorSearchApi\obj\Debug\LocatorSearchApi.pdb
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\bin\LocatorSearchApi.dll.config
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\bin\LocatorSearchApi.dll
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\bin\LocatorSearchApi.pdb
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\bin\Newtonsoft.Json.dll
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\bin\Newtonsoft.Json.xml
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\obj\Debug\LocatorSearchApi.csprojAssemblyReference.cache
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\obj\Debug\LocatorSearchApi.csproj.CoreCompileInputs.cache
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\obj\Debug\LocatorSearchApi.csproj.CopyComplete
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\obj\Debug\LocatorSearchApi.dll
+E:\WCFServices_Cardtronics\CardtronicsService\LocatorSearchApi\obj\Debug\LocatorSearchApi.pdb
