@@ -15,13 +15,25 @@ namespace LocatorSearchApi.Data
             new Networks {networkID=1103,   NetworkName="Tesco Frisco", status="Live",  intuit="",   isClientNetwork=true,
                 logo ="",productList=new List<Products>(){ Products.LSApi,Products.LSWeb},websiteURL=""  },
 
-            new Networks {networkID=1104,   NetworkName="Kinemart TX", status="Live",  intuit="",   isClientNetwork=true,
+            new Networks {networkID=1104,   NetworkName="Kinemart TX", status="Live",  intuit="",   isClientNetwork=false,
                 logo ="",productList=new List<Products>(){ Products.DIWeb,Products.DIApi},websiteURL=""  },
 
             new Networks {networkID=1112,   NetworkName="Walmart TX", status="Closed",  intuit="",   isClientNetwork=true,
                 logo ="",productList=new List<Products>(){ Products.LSApi,Products.LSWeb},websiteURL=""  },
 
             new Networks {networkID=1113,   NetworkName="Homedepot", status="Not Live",  intuit="",   isClientNetwork=true,
+                logo ="",productList=new List<Products>(){ Products.Others},websiteURL=""  },
+
+            new Networks {networkID=1114,   NetworkName="Chase TX", status="Not Live",  intuit="",   isClientNetwork=false,
+                logo ="",productList=new List<Products>(){ Products.DIApi},websiteURL=""  },
+
+            new Networks {networkID=1115,   NetworkName="Bank Of America", status="Live",  intuit="",   isClientNetwork=false,
+                logo ="",productList=new List<Products>(){ Products.LSWeb},websiteURL=""  },
+
+            new Networks {networkID=1116,   NetworkName="All point Walgreens", status="Live",  intuit="",   isClientNetwork=true,
+                logo ="",productList=new List<Products>(){ Products.LSWeb, Products.LSApi},websiteURL=""  },
+
+             new Networks {networkID=1116,   NetworkName="CVS", status="Live",  intuit="",   isClientNetwork=true,
                 logo ="",productList=new List<Products>(){ Products.Others},websiteURL=""  },
 
         };

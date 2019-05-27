@@ -5,3 +5,9 @@ D:\Projects\Cardtronics\work\LocatorSearchApi\obj\Debug\LocatorSearchApi.csprojA
 D:\Projects\Cardtronics\work\LocatorSearchApi\obj\Debug\LocatorSearchApi.csproj.CoreCompileInputs.cache
 D:\Projects\Cardtronics\work\LocatorSearchApi\obj\Debug\LocatorSearchApi.dll
 D:\Projects\Cardtronics\work\LocatorSearchApi\obj\Debug\LocatorSearchApi.pdb
+D:\CardTronics\Repositories\CardtronicsService\LocatorSearchApi\bin\LocatorSearchApi.dll.config
+D:\CardTronics\Repositories\CardtronicsService\LocatorSearchApi\bin\LocatorSearchApi.dll
+D:\CardTronics\Repositories\CardtronicsService\LocatorSearchApi\bin\LocatorSearchApi.pdb
+D:\CardTronics\Repositories\CardtronicsService\LocatorSearchApi\obj\Debug\LocatorSearchApi.csprojResolveAssemblyReference.cache
+D:\CardTronics\Repositories\CardtronicsService\LocatorSearchApi\obj\Debug\LocatorSearchApi.dll
+D:\CardTronics\Repositories\CardtronicsService\LocatorSearchApi\obj\Debug\LocatorSearchApi.pdb
