@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocatorSearchApi", "LocatorSearchApi.csproj", "{F6D5A439-3E85-4136-A45B-83F3A906B898}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocatorSearchApi", "LocatorSearchApi\LocatorSearchApi.csproj", "{F6D5A439-3E85-4136-A45B-83F3A906B898}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocatorSearchApiTest", "..\LocatorSearchApiTest\LocatorSearchApiTest.csproj", "{CFCAFF81-E47A-4ADC-8632-720B2148FBBB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocatorSearchApiTest", "LocatorSearchApiTest\LocatorSearchApiTest.csproj", "{CFCAFF81-E47A-4ADC-8632-720B2148FBBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
