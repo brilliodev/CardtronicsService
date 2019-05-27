@@ -88,11 +88,9 @@
     <Folder Include="ExcelData\" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <None Include="Properties\PublishProfiles\LocatorSearch.pubxml" />
-=======
+
     <None Include="packages.config" />
->>>>>>> 137580aadff26c0746f1d62d4347de94603fab23
+
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
